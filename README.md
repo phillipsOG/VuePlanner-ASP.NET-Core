@@ -1,4 +1,4 @@
-[![.NET](https://github.com/phillipsOG/VuePlanner-ASP.NET-Core/actions/workflows/dotnet.yml/badge.svg)](https://github.com/phillipsOG/VuePlanner-ASP.NET-Core/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/phillipsOG/VuePlanner-ASP.NET-Core/actions/workflows/dotnet.yml/badge.svg?branch=dev)](https://github.com/phillipsOG/VuePlanner-ASP.NET-Core/actions/workflows/dotnet.yml)
 [![Docker Image CI](https://github.com/phillipsOG/VuePlanner-ASP.NET-Core/actions/workflows/docker-image.yml/badge.svg?branch=dev)](https://github.com/phillipsOG/VuePlanner-ASP.NET-Core/actions/workflows/docker-image.yml)
 # VuePlanner ASP.NET Core
 # A simple planner with basic CRUD functionality, written with Vue.js, using ASP.NET Core, Docker & Entity Framework.
