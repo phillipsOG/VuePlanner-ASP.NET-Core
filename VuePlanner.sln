@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuePlanner", "VuePlanner.csproj", "{8E4E3246-C0B2-493F-A64B-64C501C29E38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuePlannerTests", "..\VuePlannerTests\VuePlannerTests.csproj", "{A7D5FE8D-C452-44CA-8091-3FD339270E5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8E4E3246-C0B2-493F-A64B-64C501C29E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E4E3246-C0B2-493F-A64B-64C501C29E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E4E3246-C0B2-493F-A64B-64C501C29E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D5FE8D-C452-44CA-8091-3FD339270E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D5FE8D-C452-44CA-8091-3FD339270E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D5FE8D-C452-44CA-8091-3FD339270E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D5FE8D-C452-44CA-8091-3FD339270E5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
