@@ -1,7 +1,11 @@
+using VuePlanner.Models;
+
 namespace VuePlanner
 {
     public class Program
     {
+        public static string result = "";
+
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -29,6 +33,20 @@ namespace VuePlanner
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            #region READ
+            using (var db = new NorthwindContext())
+            {
+                result = db.ContextId.ToString();
+                Console.WriteLine($"[DB_ID][{db.ContextId}]");
+                foreach (var con in db.Customers)
+                {
+                    //Console.WriteLine($"[CustomerID][{con.CustomerId}][Name][{con.ContactName}][City][{con.City}]");
+                    //Console.WriteLine(con.ToString());
+                }
+                db.Customers.ToList().ForEach(c => Console.WriteLine(c));
+            }
+            #endregion
 
             app.Run();
         }
