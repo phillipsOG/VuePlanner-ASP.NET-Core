@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fsLlUtjd+fxH8fW0S9VCIaKypPPODWLKCr1ZhjuGcX2zqVzpGY4kbBFtCGgpo6UrfySpqba07wu6bB7+P6g5EQ==",
+  "dgSpecHash": "huWly+TJKT6nEgvZnL7jBiV15uf0GRYkPrIX6jJw2TYNTWO2d8n+uszDgzqHKmu+Hz/TvgGJGleopNQcjvQteg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,8 @@
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Jason\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jason\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
