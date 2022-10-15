@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using NorthwindData.Models;
 
+<<<<<<< HEAD
 namespace VuePlanner.Models;
+=======
+namespace NorthwindData;
+>>>>>>> dev
 
 public partial class NorthwindContext : DbContext
 {

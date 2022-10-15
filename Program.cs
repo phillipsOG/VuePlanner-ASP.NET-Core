@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 using VuePlanner.Models;
+=======
+using Microsoft.AspNetCore.Http;
+using NorthwindData;
+>>>>>>> dev
 
 namespace VuePlanner
 {
     public class Program
     {
         public static string result = "";
+<<<<<<< HEAD
 
+=======
+>>>>>>> dev
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -34,6 +42,10 @@ namespace VuePlanner
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
+<<<<<<< HEAD
+=======
+            
+>>>>>>> dev
             #region READ
             using (var db = new NorthwindContext())
             {
@@ -44,10 +56,17 @@ namespace VuePlanner
                     //Console.WriteLine($"[CustomerID][{con.CustomerId}][Name][{con.ContactName}][City][{con.City}]");
                     //Console.WriteLine(con.ToString());
                 }
+<<<<<<< HEAD
                 db.Customers.ToList().ForEach(c => Console.WriteLine(c));
             }
             #endregion
 
+=======
+                //db.Customers.ToList().ForEach(c => Console.WriteLine(c));
+            }
+            #endregion
+            
+>>>>>>> dev
             app.Run();
         }
     }

@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using VuePlanner.Models;
+=======
+>>>>>>> dev
 
 namespace NorthwindData.Models;
 
