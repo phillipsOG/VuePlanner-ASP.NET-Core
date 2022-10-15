@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4DuZgg4fd0gwZY5p4qHIgWPm5uX0K/PNE8cXrsfWMBar/8skk8xwINUelzGJqYDtR8d53E52FrimhyV5d4ZRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
