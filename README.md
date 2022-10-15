@@ -4,7 +4,7 @@
 ### Install
 ```
 1. Create a new Visual Studio project, using ASP.NET Core Web App (Model-View-Controller)
-1.2 Select "Enable Docker Support"
+1.1 Select "Enable Docker Support"
 2. Add the Vue.js CDN in "Views\Home\Index.cshtml" from their [Vue quick-start page](https://vuejs.org/guide/quick-start.html#using-vue-from-cdn)
 ```
 ### Testing Set-Up
