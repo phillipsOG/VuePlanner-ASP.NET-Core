@@ -1,5 +1,5 @@
 # VuePlanner ASP.NET Core
-# A simple planner with basic CRUD functionality, written with Vue.js, using ASP .NET Core & Docker
+# A simple planner with basic CRUD functionality, written with Vue.js, using ASP.NET Core & Docker
 ## Project setup
 ### Install
 ```
