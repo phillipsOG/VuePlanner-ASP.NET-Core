@@ -66,8 +66,6 @@ C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.csproj.AssemblyReference.cache
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.AssemblyInfoInputs.cache
-C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.AssemblyInfo.cs
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.csproj.CoreCompileInputs.cache
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.RazorAssemblyInfo.cache
