@@ -83,3 +83,5 @@ C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.pdb
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\VuePlanner.genruntimeconfig.cache
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\obj\Debug\net6.0\ref\VuePlanner.dll
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests.deps.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests.runtimeconfig.json
