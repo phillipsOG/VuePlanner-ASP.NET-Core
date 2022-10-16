@@ -33,7 +33,6 @@ namespace VuePlanner
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
-
             
             #region READ
             using (var db = new NorthwindContext())

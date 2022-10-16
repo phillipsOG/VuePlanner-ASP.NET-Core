@@ -3704,11 +3704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
       "projectName": "VuePlanner",
-      "projectPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
+      "projectPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",

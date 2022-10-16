@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj": {}
+    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlannerTests\\VuePlannerTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj": {
+    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlannerTests\\VuePlannerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
-        "projectName": "VuePlanner",
-        "projectPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlannerTests\\VuePlannerTests.csproj",
+        "projectName": "VuePlannerTests",
+        "projectPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlannerTests\\VuePlannerTests.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlannerTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,23 +40,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
+              "version": "[17.1.0, )"
             },
             "NUnit": {
               "target": "Package",
               "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -71,9 +73,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
