@@ -1,5 +1,7 @@
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\appsettings.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlannerTests\obj\project.assets.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlannerTests\obj\VuePlannerTests.csproj.nuget.dgspec.json
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlanner.staticwebassets.runtime.json
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlanner.exe
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\bin\Debug\net6.0\VuePlanner.deps.json
