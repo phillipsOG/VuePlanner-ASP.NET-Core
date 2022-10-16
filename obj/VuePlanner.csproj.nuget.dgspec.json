@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj": {}
+    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj": {
+    "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
         "projectName": "VuePlanner",
-        "projectPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
+        "projectPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,29 +41,6 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
-<<<<<<< HEAD
-              "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-=======
->>>>>>> dev
               "target": "Package",
               "version": "[7.0.0-rc.2.22472.11, )"
             },

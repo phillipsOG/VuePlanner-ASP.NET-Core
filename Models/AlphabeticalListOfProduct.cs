@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-<<<<<<< HEAD
 namespace VuePlanner.Models;
-=======
-namespace NorthwindData;
->>>>>>> dev
 
 public partial class AlphabeticalListOfProduct
 {

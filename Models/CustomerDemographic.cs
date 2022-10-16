@@ -2,11 +2,7 @@
 using System.Collections.Generic;
 using NorthwindData.Models;
 
-<<<<<<< HEAD
 namespace VuePlanner.Models;
-=======
-namespace NorthwindData;
->>>>>>> dev
 
 public partial class CustomerDemographic
 {

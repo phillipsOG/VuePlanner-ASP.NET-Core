@@ -1,12 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "/J2xtaIeHTmSS4NkBQB5/iKXgiu8K1QrTOLJbE4njLo6Ac7cW+WRYV2XXluoU/eimdTLvv1AJqIMYdP6ELAxwg==",
-=======
-  "dgSpecHash": "huWly+TJKT6nEgvZnL7jBiV15uf0GRYkPrIX6jJw2TYNTWO2d8n+uszDgzqHKmu+Hz/TvgGJGleopNQcjvQteg==",
->>>>>>> dev
+  "dgSpecHash": "5HFVw2FjlR8xqoI16KW/K+0f6//xeVNmEwuUL9ZttJZKTbnI+ODRJ4gMkmiqHkAwI6bnIY26yuoRgIUkVDmp1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner\\VuePlanner.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Desktop\\VuePlanner.NetCore\\VuePlanner-ASP.NET-Core\\VuePlanner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -43,18 +39,11 @@
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
-<<<<<<< HEAD
-    "C:\\Users\\Jason\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
-    "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
-    "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
-    "C:\\Users\\Jason\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
-=======
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
->>>>>>> dev
     "C:\\Users\\Jason\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
