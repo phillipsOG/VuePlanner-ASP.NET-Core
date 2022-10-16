@@ -153,3 +153,12 @@ C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTest
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\obj\Debug\net6.0\VuePlannerTests.pdb
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\obj\Debug\net6.0\VuePlannerTests.genruntimeconfig.cache
 C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\obj\Debug\net6.0\ref\VuePlannerTests.dll
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\appsettings.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlanner.deps.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlanner.runtimeconfig.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlanner.staticwebassets.runtime.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests.deps.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests.runtimeconfig.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\obj\project.assets.json
+C:\Users\Jason\Desktop\VuePlanner.NetCore\VuePlanner-ASP.NET-Core\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\bin\Debug\net6.0\VuePlannerTests\obj\VuePlannerTests.csproj.nuget.dgspec.json
