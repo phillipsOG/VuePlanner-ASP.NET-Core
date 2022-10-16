@@ -4,8 +4,20 @@
 }
 
 <div class="text-center">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <div id="app">
+        <h1 class="display-4">{{message}}</h1>
+    </div>
 
-<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script>
+        let app = new Vue({
+            el: '#app',
+            data: {
+                message: 'New Vue in the works!'
+            }
+        })
+    </script>
+</div>
